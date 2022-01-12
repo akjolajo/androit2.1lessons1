@@ -32,4 +32,19 @@
         android:name="com.example.androit2lessons1.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/boardFragment"
+        android:name="com.example.androit2lessons1.BoardFragment"
+        android:label="fragment_board"
+        tools:layout="@layout/fragment_board" />
+    <fragment
+        android:id="@+id/avatarFragment"
+        android:name="com.example.androit2lessons1.ui.AvatarFragment"
+        android:label="fragment_avatar"
+        tools:layout="@layout/fragment_avatar"/>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.androit2lessons1.ui.auth.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login"/>
 </navigation>
