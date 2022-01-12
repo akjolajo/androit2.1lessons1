@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952867798230",
+    "project_id": "androit2lessons1",
+    "storage_bucket": "androit2lessons1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952867798230:android:e004995dee04526516dd77",
+        "android_client_info": {
+          "package_name": "com.example.androit2lessons1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952867798230-j97d63gn3t7acl8qkde7jsva20omr1s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXM3nfqtTfcfc0ywGVZetmPqt5SxMJT_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952867798230-j97d63gn3t7acl8qkde7jsva20omr1s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
